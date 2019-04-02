@@ -42,5 +42,10 @@ header, .experience {
 }
 
 @media screen and (max-width: 800px){
-	
+	section.left{
+		width:auto;
+	}
+	section.right{
+		width:auto;
+	}
 }
