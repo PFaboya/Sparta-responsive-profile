@@ -18,3 +18,22 @@
 	display: block;
 	margin: 0 auto;
 }
+
+@media screen and (max-width: 1165px){
+  img.screenshot{
+    display: none;
+  }
+}
+
+@media screen and (max-width: 1010px){
+  .tile{
+    width:auto;
+  }
+}
+
+@media screen and (max-width: 400px){
+  #headshot{
+    width:70%;
+    height:70%;
+  }
+}
